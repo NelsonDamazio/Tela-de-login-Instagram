@@ -8,6 +8,6 @@ modificações dentre elas:
 - Escrita Style e Html
 
 Algo simples, porém damos outra cara ao projeto e funcionalidades
-a ele mesmo sendo somente para fins acidêmicos.
+a ele mesmo sendo somente para fins acadêmicos.
 
 
